@@ -22,3 +22,20 @@ Json Response :
     "roles": "ROLE_USER"
 }
 ```
+Authorized person can accees this link
+-------------------------------------
+```bash
+URL : http://localhost:4004/employee/user
+HTTP Method : GET
+```
+For Login purpose Enter this username & password:
+```san
+username:sankar
+password:1234
+#this password will encrypted in login time
+```
+
+
+
+
+
